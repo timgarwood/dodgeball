@@ -1,0 +1,8 @@
+# git ignore file
+
+dodgeball/bin
+dodgeball/bin/*
+dodgeball/obj
+dodgeball/obj/*
+packages
+packages/*
